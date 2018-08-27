@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans"/>
+<style>
+p{
+	font-family: Open Sans;
+	font-size: 15px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 14px;
+}
+</style>
+<ul>
+<li><p><a href="https://eyeonsolar.sharepoint.com/sites/Int/Pages/FAQuestions.aspx">Frequently Asked Questions</a></p></li>
+<li><p><a href="https://eyeonsolar.sharepoint.com/sites/Int/Pages/Contact.aspx">Create Ticket</a></p></li>
+<li><p><a href="https://eyeonsolar.sharepoint.com/sites/Int/Pages/Livechat.aspx">Live Chat</a></p></li>
+</ul>
+</body>
+</html>
