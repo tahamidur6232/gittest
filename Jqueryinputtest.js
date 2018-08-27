@@ -81,7 +81,7 @@ function funEdit(itemId)
 }	
 </script>
 <table border = '2' id ='tb1'>
-    <tr><th>Title</th><th>DocId</th><th>Address</th><th>Type</th><th>Floor</th><th>Salary</th></tr>
+    <tr><th>Title</th><th>DocId</th><th>Address</th><th>Type</th><th>Floor</th><th>Salary Amount</th></tr>
 </table>
 <br/>
 <table border='1'>
